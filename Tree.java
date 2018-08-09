@@ -1,8 +1,5 @@
 //Kenneth Perera
-//Evergreen Valley College
-//Spring 2017
-//COMSC 076: Computer Science II - Introduction to Data Structures
-//Honors Project: Dictionary
+//Data Structure Dictonary
 
 public class Tree 
 {
