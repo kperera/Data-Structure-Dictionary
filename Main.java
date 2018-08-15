@@ -87,7 +87,7 @@ public class Main
 				+ "1. Choose a data structure that will store all of the terms from the Dictionary.txt file.\n"
 				+ "2. Search up a word and find its corresponding definition using the data structure of the user's choice.\n");
 		
-		System.out.println("Throughtout the program if non valid input is entered the user will be prompted to enter input "
+		System.out.println("Throughout the program if non valid input is entered the user will be prompted to enter input "
 				+ "until the entered input is valid.\n");
 		
 		System.out.println("The following words are listed in the dictionary:");
