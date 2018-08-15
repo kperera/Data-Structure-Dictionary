@@ -1,0 +1,25 @@
+Chair: A separate seat for one person, typically with a back and four legs.
+Table: A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed.
+Computer: An electronic device for storing and processing data, according to instructions given to it in a variable program.
+Stove: An apparatus for cooking or heating that operates by burning fuel or using electricity.
+Kitchen: A room or area where food is prepared and cooked.
+Mouse: A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.
+Phone: An instrument of sound transmission or reproduction.
+Book: A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+Cup: A small, bowl-shaped container for drinking from, typically having a handle.
+Plate: A flat dish, typically circular and made of china, from which food is eaten or served.
+Bottle: A container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids.
+Toaster: An electrical device for making toast.
+Apple: The round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.
+Rice: A swamp grass that is widely cultivated as a source of food.
+Calculator: Something that is used for making mathematical calculations.
+Television: A system for transmitting visual images and sound that are reproduced on screens,
+Couch: A long upholstered piece of furniture for several people to sit on.
+Bed: A piece of furniture for sleep or rest, typically a framework with a mattress and coverings.
+Pillow: A rectangular cloth bag stuffed with feathers, foam rubber, or other soft materials, used to support the head when lying down.
+Speaker: An electrical device used to make sound or music louder.
+Stapler: A device for fastening together sheets of paper with a staple or staples.
+Shirt: A garment for the upper body made of cotton or a similar fabric, with a collar, sleeves, and buttons down the front.
+Pencil: An instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood or fixed in a metal or plastic case.
+Bacon: Cured meat from the sides and belly of a pig, having distinct strips of fat and typically served in thin slices.
+Egg: An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.
